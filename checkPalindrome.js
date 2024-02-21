@@ -1,4 +1,7 @@
-// 1. Write a function which takes an array as input, checks each element (which can be a string or a number) to determine if it is a palindrome, and then returns an array indicating whether each element is a palindrome or not, following the pattern specified in the given example.
+// 1. Write a function which takes an array as input, 
+// checks each element (which can be a string or a number) to determine if it is a palindrome,
+// and then returns an array indicating whether each element is a palindrome or not, 
+// following the pattern specified in the given example.
 
 // Input array: ['dad', 1331, 'cat', 255, 'noon']
 // Output array: ['palindrome', 'palindrome', 'non-palindrome', 'non-palindrome', 'palindrome']
